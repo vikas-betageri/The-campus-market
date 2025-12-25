@@ -1,0 +1,5 @@
+{
+  "name": "EduSwap Electronics",
+  "description": "A specialized peer-to-peer marketplace for students to buy and sell used electronic components, microcontrollers, and maker tools. Features AI-powered price estimation and description generation.",
+  "requestFramePermissions": []
+}
